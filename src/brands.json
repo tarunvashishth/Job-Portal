@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "image" : "brands/anba-1.png"
+    },
+    {
+        "id" : 2,
+        "image" : "brands/goldline.png"
+    },
+    {
+        "id" : 3,
+        "image" : "brands/ideaa.png"
+    },
+    {
+        "id" : 4,
+        "image" : "brands/kanba.png"
+    },
+    {
+        "id" : 5,
+        "image" : "brands/lighting.png"
+    },
+    {
+        "id" : 6,
+        "image" : "brands/liva.png"
+    },
+    {
+        "id" : 7,
+        "image" : "brands/solaytic.png"
+    },
+    {
+        "id" : 8,
+        "image" : "brands/velocity-9.png"
+    },
+    {
+        "id" : 9,
+        "image" : "brands/ztos.png"
+    }
+]
